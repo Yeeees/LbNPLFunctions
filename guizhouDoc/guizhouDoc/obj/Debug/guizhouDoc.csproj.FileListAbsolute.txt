@@ -1,0 +1,12 @@
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\guizhouDoc.exe.config
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\guizhouDoc.exe
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\guizhouDoc.pdb
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\NPOI.dll
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\NPOI.OOXML.dll
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\NPOI.OpenXml4Net.dll
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\lingbanC\guizhouDoc\guizhouDoc\bin\Debug\NPOI.xml
+D:\lingbanC\guizhouDoc\guizhouDoc\obj\Debug\guizhouDoc.csprojResolveAssemblyReference.cache
+D:\lingbanC\guizhouDoc\guizhouDoc\obj\Debug\guizhouDoc.exe
+D:\lingbanC\guizhouDoc\guizhouDoc\obj\Debug\guizhouDoc.pdb

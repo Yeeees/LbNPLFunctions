@@ -1,0 +1,6 @@
+D:\lingbanC\genDicWithWeight\genDicWithWeight\bin\Debug\genDicWithWeight.exe.config
+D:\lingbanC\genDicWithWeight\genDicWithWeight\bin\Debug\genDicWithWeight.exe
+D:\lingbanC\genDicWithWeight\genDicWithWeight\bin\Debug\genDicWithWeight.pdb
+D:\lingbanC\genDicWithWeight\genDicWithWeight\obj\Debug\genDicWithWeight.csprojResolveAssemblyReference.cache
+D:\lingbanC\genDicWithWeight\genDicWithWeight\obj\Debug\genDicWithWeight.exe
+D:\lingbanC\genDicWithWeight\genDicWithWeight\obj\Debug\genDicWithWeight.pdb

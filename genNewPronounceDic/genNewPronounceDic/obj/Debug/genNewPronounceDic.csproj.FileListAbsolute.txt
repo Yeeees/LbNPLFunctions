@@ -1,0 +1,6 @@
+D:\lingbanC\genNewPronounceDic\genNewPronounceDic\bin\Debug\genNewPronounceDic.exe.config
+D:\lingbanC\genNewPronounceDic\genNewPronounceDic\bin\Debug\genNewPronounceDic.exe
+D:\lingbanC\genNewPronounceDic\genNewPronounceDic\bin\Debug\genNewPronounceDic.pdb
+D:\lingbanC\genNewPronounceDic\genNewPronounceDic\obj\Debug\genNewPronounceDic.csprojResolveAssemblyReference.cache
+D:\lingbanC\genNewPronounceDic\genNewPronounceDic\obj\Debug\genNewPronounceDic.exe
+D:\lingbanC\genNewPronounceDic\genNewPronounceDic\obj\Debug\genNewPronounceDic.pdb
